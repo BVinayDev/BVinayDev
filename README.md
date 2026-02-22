@@ -54,9 +54,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="developer"/>
 </p>
 
----
-
-## About
 
 I'm a Senior Software Engineer with strong experience building backend systems and cloud platforms on AWS, with a focus on automation, reliability, and scale.
 
