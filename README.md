@@ -60,11 +60,11 @@
 
 I'm a Senior Software Engineer with strong experience building backend systems and cloud platforms on AWS, with a focus on automation, reliability, and scale.
 
-My core strength is owning systems end to end—writing production software (Python, Java), designing system architecture, and building the infrastructure, CI/CD, and operational tooling required to run those systems reliably in production.
+My core strength is owning systems end to end writing production software (Python, Java), designing system architecture, and building the infrastructure, CI/CD, and operational tooling required to run those systems reliably in production.
 
 I'm not a "DevOps-only" engineer. I build software, review code, make architectural decisions, and take responsibility for what ships to production. My infrastructure work exists to make software delivery faster, safer, and more predictable.
 
-I care deeply about operability—systems that are observable, debuggable, and resilient under failure. If a system requires constant manual intervention, I consider it unfinished.
+I care deeply about operability systems that are observable, debuggable, and resilient under failure. If a system requires constant manual intervention, I consider it unfinished.
 
 ---
 
